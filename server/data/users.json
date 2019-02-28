@@ -1,0 +1,14 @@
+[
+  {
+    "id": "BJrp-DudG",
+    "email": "chris@gmail.com",
+    "password": "chris123",
+    "companyId": "CO-12345"
+  },
+  {
+    "id": "ry9pbwdOz",
+    "email": "jack@gmail.com",
+    "password": "jack123",
+    "companyId": "CO-56789"
+  }
+]
